@@ -61,7 +61,10 @@ Note: Make sure you have available files in the backup folder before running thi
 ### After preforming steps 1 and 2 our drupal website will be available at: http://localhost:8080
 ### Step 4: Website Login Details
 Enter the following details in order to connect to our existing website:
-- Database name : postgres_bd
+- Site language : English
+- Installation profile : standard
+- Database type : PostgreSQL 
+- Database name : postgres_db
 - Database username : drupal_user
 - Database password is in the assignment instructions
 - Host: postgres_drupal
